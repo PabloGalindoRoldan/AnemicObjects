@@ -1,3 +1,5 @@
+TP. Nro 0:
+
 COSIGNA: Implemente una clase Tiempo y una clase Main (la cual instancia y utiliza la clase
 Tiempo), que impriman por consola (sysout), la fecha/hora de hoy en dos formatos diferentes:
 Largo, del tipo “Lunes 3 de Abril de 2020”. Y otro en formato corto del tipo: “03/04/2020”.
